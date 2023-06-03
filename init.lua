@@ -1,0 +1,2 @@
+require("caycun")
+print("hello")
